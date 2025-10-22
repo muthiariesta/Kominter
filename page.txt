@@ -1,0 +1,5 @@
+<a href="dokumen.pdf" target="_blank">Buka PDF</a>
+
+<iframe src="dokumen.pdf" width="100%" height="600px"></iframe>
+
+<embed src="dokumen.pdf" type="application/pdf" width="100%" height="600px">
